@@ -12,7 +12,7 @@ import altair as alt
 
 #st.set_page_config(layout="wide")
 
-data = pd.read_excel (r'C:\Users\Abeer\Documents\2.MSBA_Program\MSBA325_Data_visualization\00_Maternal_deaths_MMR.xlsx')
+data = pd.read_excel ('00_Maternal_deaths_MMR.xlsx')
 col1, col2, col3 = st.columns(3)
 col1.metric("Maternal Mortality", "277K")
 #col2.metric("Region with Highest maternal mortality", "Sub-sahran africa")
