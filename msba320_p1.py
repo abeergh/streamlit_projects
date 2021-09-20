@@ -6,7 +6,7 @@ import altair as alt
 
 #st.set_page_config(layout="wide")
 #load data
-data = pd.read_excel ('00_Maternal_deaths_MMR.xlsx')
+data = pd.read_excel ('./00_Maternal_deaths_MMR.xlsx')
 #create main data cards, highlights
 col1, col2, col3 = st.columns(3)
 col1.metric("Maternal Mortality", "277K")
