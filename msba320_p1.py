@@ -16,14 +16,12 @@ st.sidebar.selectbox("Maternal mortality dashboard",("Home","Page2","Page3"))
 year = st.sidebar.slider("Select to filter data by year(200-2017)",2000,2017)
 st.sidebar.write("The report year selected is", year) 
 #create country drop down list
-country = st.sidebar.multiselect("Select countries",list(data.Country))
+countries = st.sidebar.selectbox("Select country",list(data.Country))
+selected_countries = data.loc[data['Country']==countries]
+selected_countries = selected_countries[['Year','Deaths']]
+st.sidebar.write('Total maternal deaths by year',selected_countries)
 #group maternal deaths by year worldwide
 data_by_year=data.groupby('Year',as_index=False)['Deaths'].sum().reset_index().rename(columns={'sum':'Deaths','Year':'Year'})
-#create line chart with total maternal deaths by year
-fig0 = px.line(data_by_year, x='Year', y='Deaths', text='Deaths')
-fig0.update_traces(textposition="top right")
-fig0.update_layout(margin=dict(b=0),autosize=False,title="Total maternal mortality deaths from 2000-2017",width=800,height=300)
-st.write(fig0, use_container_width=True)
 
 #create a map to plot maternal mortaity ratio by country
 fig1 = px.scatter_geo(data[data['Year']==year], locations = 'Country ISO Code',  color="Maternal mortality ratio", size="Maternal mortality ratio", animation_frame='Year', color_continuous_scale=px.colors.sequential.Plasma, projection='natural earth')
@@ -37,3 +35,8 @@ st.write(fig2, use_container_width=True)
 st.markdown(
         "<div style='margin-bottom: 11px; font-size:10px; text-align: left; color: gray; width: 100%'>Data source: WHO & world bank- Maternal mortality and poverty rate data</div>", 
 unsafe_allow_html=True)
+#create line chart with total maternal deaths by year
+fig0 = px.line(data_by_year, x='Year', y='Deaths', text='Deaths')
+fig0.update_traces(textposition="top right")
+fig0.update_layout(margin=dict(b=0),autosize=False,title="Total maternal mortality deaths from 2000-2017",width=800,height=300)
+st.write(fig0, use_container_width=True)
