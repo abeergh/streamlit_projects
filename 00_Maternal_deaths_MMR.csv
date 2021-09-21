@@ -1,0 +1,3011 @@
+﻿Country ISO Code,Country,region,Deaths,Maternal mortality ratio,Year,poverty rate,lat,lon
+AFG,Afghanistan,Central & Southern Asia,15000,1450,2000,54.5,33.94,67.71
+ALB,Albania,Europe & North America,12,23,2000,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,980,161,2000,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,6600,827,2000,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,44,2000,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,480,66,2000,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,17,43,2000,23.5,40.07,45.04
+AUS,Australia,Oceania,17,7,2000,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,5,6,2000,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,66,47,2000,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,75,2000,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,27,2000,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,15000,434,2000,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,50,2000,,13.19,-59.54
+BLR,Belarus,Europe & North America,19,22,2000,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,9,8,2000,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,7,89,2000,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1500,520,2000,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,68,423,2000,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,850,331,2000,34.6,-16.29,-63.59
+BIH,Bosnia Herzegovina,Europe & North America,7,17,2000,,43.92,17.68
+BWA,Botswana,Sub-Sahran Africa,130,262,2000,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2400,69,2000,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,13,19,2000,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2800,516,2000,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2800,1010,2000,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1700,488,2000,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5700,886,2000,37.5,7.37,12.35
+CAN,Canada,Europe & North America,31,9,2000,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1900,1280,2000,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6100,1420,2000,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,79,31,2000,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,10000,59,2000,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,830,94,2000,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,90,444,2000,42.4,-11.88,43.87
+COG,Democratic Republic of Congo,Sub-Sahran Africa,890,739,2000,,-4.04,21.76
+CRI,Costa Rica,Latin America and the Caribbean,30,40,2000,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,4700,704,2000,,7.54,-5.55
+HRV,Croatia,Europe & North America,5,11,2000,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,67,46,2000,,21.52,-77.78
+CYP,Cyprus,Europe & North America,2,14,2000,14.7,35.13,33.43
+COD,Democratic Republic of Congo,Sub-Sahran Africa,17000,760,2000,,-4.04,21.76
+DNK,Denmark,Europe & North America,5,8,2000,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,110,507,2000,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,170,80,2000,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,390,122,2000,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1100,64,2000,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,110,73,2000,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,454,2000,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,990,1280,2000,69,15.18,39.78
+EST,Estonia,Europe & North America,4,29,2000,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,170,521,2000,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,30000,1030,2000,23.5,9.15,40.49
+FJI,Fiji,Oceania,10,51,2000,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,6,2000,11.6,61.92,25.75
+FRA,France,Europe & North America,73,10,2000,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,160,380,2000,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,530,932,2000,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,31,2000,19.5,42.32,43.36
+DEU,Germany,Europe & North America,53,7,2000,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,3300,484,2000,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,4,3,2000,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,38,2000,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,660,161,2000,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3700,1020,2000,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,610,1210,2000,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,44,231,2000,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1200,437,2000,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,190,85,2000,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,16,16,2000,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,6,2000,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,103000,370,2000,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,13000,272,2000,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,560,48,2000,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,670,79,2000,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,7,2000,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,9,7,2000,16.9,31.05,34.85
+ITA,Italy,Europe & North America,19,4,2000,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,44,77,2000,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,100,9,2000,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,70,2000,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,140,61,2000,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,9100,708,2000,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,4,136,2000,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2000,,29.31,47.48
+LVA,Latvia,Europe & North America,7,34,2000,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,23,28,2000,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,380,614,2000,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,894,2000,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,81,70,2000,,26.34,17.23
+LTU,Lithuania,Europe & North America,5,17,2000,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,1,10,2000,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3600,559,2000,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3600,749,2000,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,190,38,2000,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,8,125,2000,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4500,836,2000,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,9,2000,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,840,834,2000,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,12,59,2000,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1300,55,2000,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,72,155,2000,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,12,2000,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,1200,188,2000,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,6400,798,2000,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3900,340,2000,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,190,348,2000,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,4200,553,2000,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,26,13,2000,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,12,2000,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,220,162,2000,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,4900,813,2000,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,64000,1200,2000,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,6,2000,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,20,2000,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,14000,286,2000,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,64,91,2000,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,490,249,2000,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,240,165,2000,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,890,144,2000,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3700,160,2000,21.6,12.88,121.77
+POL,Poland,Europe & North America,26,7,2000,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,11,10,2000,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,14,2000,,25.35,51.18
+ROU,Romania,Europe & North America,120,54,2000,23.8,45.94,24.97
+RUS,Russia,Europe & North America,740,56,2000,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,3500,1160,2000,38.2,-1.94,29.87
+WSM,Samoa,Oceania,5,88,2000,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,179,2000,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,130,24,2000,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2100,553,2000,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,15,13,2000,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,53,2000,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,5200,2480,2000,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,7,13,2000,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,8,2000,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,12,2000,12,46.15,15.00
+SLB,Solomon Islands,Oceania,36,245,2000,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1210,2000,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1600,160,2000,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4600,1730,2000,82.3,4.86,31.57
+ESP,Spain,Europe & North America,19,5,2000,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,200,56,2000,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,7200,667,2000,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,25,221,2000,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2000,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2000,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,130,26,2000,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,100,53,2000,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,390,43,2000,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,960,489,2000,55.1,8.62,0.82
+TON,Tonga,Oceania,2,77,2000,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,81,2000,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,110,66,2000,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,580,42,2000,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,31,29,2000,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6700,578,2000,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,140,35,2000,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,6,2000,,23.42,53.85
+GBR,United Kingdom,Europe & North America,73,10,2000,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,854,2000,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,470,12,2000,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,14,26,2000,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,230,41,2000,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,9,140,2000,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,690,119,2000,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,940,68,2000,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,2100,301,2000,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2500,528,2000,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2200,579,2000,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,15000,1390,2001,54.5,33.94,67.71
+ALB,Albania,Europe & North America,11,23,2001,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,940,155,2001,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,6300,766,2001,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,44,2001,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,480,67,2001,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,17,42,2001,23.5,40.07,45.04
+AUS,Australia,Oceania,15,6,2001,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,5,6,2001,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,61,44,2001,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,76,2001,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,19,2001,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,15000,423,2001,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,48,2001,,13.19,-59.54
+BLR,Belarus,Europe & North America,16,19,2001,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,9,8,2001,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,7,88,2001,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1500,516,2001,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,60,384,2001,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,820,320,2001,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,130,271,2001,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,68,2001,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,12,18,2001,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2800,501,2001,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2700,956,2001,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1500,456,2001,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5600,844,2001,37.5,7.37,12.35
+CAN,Canada,Europe & North America,32,10,2001,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,2000,1290,2001,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6300,1410,2001,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,79,32,2001,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,9500,55,2001,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,810,93,2001,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,91,437,2001,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,28,37,2001,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,4800,706,2001,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,10,2001,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,62,44,2001,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,9,2001,14.7,35.13,33.43
+CZE,Czech Republic,Europe & North America,6,7,2001,10.1,49.82,15.47
+DNK,Denmark,Europe & North America,5,8,2001,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,110,490,2001,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,160,75,2001,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,380,117,2001,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1100,63,2001,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,110,75,2001,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,421,2001,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,960,1180,2001,69,15.18,39.78
+EST,Estonia,Europe & North America,3,27,2001,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,170,528,2001,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,29000,988,2001,23.5,9.15,40.49
+FJI,Fiji,Oceania,10,49,2001,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,5,2001,11.6,61.92,25.75
+FRA,France,Europe & North America,73,10,2001,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,150,370,2001,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,905,2001,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,33,2001,19.5,42.32,43.36
+DEU,Germany,Europe & North America,50,7,2001,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,3100,445,2001,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2001,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,36,2001,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,610,147,2001,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3900,1070,2001,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,600,1180,2001,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,41,216,2001,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1200,437,2001,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,180,83,2001,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,15,15,2001,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,6,2001,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,99000,354,2001,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,13000,269,2001,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,510,44,2001,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,650,76,2001,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,7,2001,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,9,7,2001,16.9,31.05,34.85
+ITA,Italy,Europe & North America,18,3,2001,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,44,79,2001,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,95,8,2001,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,68,2001,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,140,57,2001,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,9200,702,2001,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,131,2001,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2001,,29.31,47.48
+LVA,Latvia,Europe & North America,7,35,2001,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,22,27,2001,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,390,633,2001,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,913,2001,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,79,68,2001,,26.34,17.23
+LTU,Lithuania,Europe & North America,5,16,2001,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,1,10,2001,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3600,552,2001,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3700,735,2001,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,180,36,2001,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,7,111,2001,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4400,797,2001,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,10,2001,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,860,835,2001,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,11,54,2001,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1300,55,2001,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,64,138,2001,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,12,2001,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,1100,174,2001,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,6100,745,2001,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3800,331,2001,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,190,352,2001,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,3800,521,2001,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,25,13,2001,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,11,2001,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,210,157,2001,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5000,803,2001,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,65000,1200,2001,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,5,2001,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,20,2001,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,14000,275,2001,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,62,86,2001,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,490,242,2001,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,230,160,2001,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,840,138,2001,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3800,163,2001,21.6,12.88,121.77
+POL,Poland,Europe & North America,23,6,2001,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,12,10,2001,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,14,2001,,25.35,51.18
+ROU,Romania,Europe & North America,110,49,2001,23.8,45.94,24.97
+RUS,Russia,Europe & North America,720,53,2001,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,3400,1100,2001,38.2,-1.94,29.87
+WSM,Samoa,Oceania,5,85,2001,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,173,2001,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,130,24,2001,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2100,545,2001,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,15,13,2001,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,54,2001,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4800,2250,2001,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,7,13,2001,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,8,2001,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,10,2001,12,46.15,15.00
+SLB,Solomon Islands,Oceania,35,233,2001,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1170,2001,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1700,168,2001,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4600,1690,2001,82.3,4.86,31.57
+ESP,Spain,Europe & North America,19,5,2001,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,180,53,2001,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,7100,645,2001,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,24,218,2001,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2001,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2001,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,130,26,2001,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,100,52,2001,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,390,43,2001,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,980,489,2001,55.1,8.62,0.82
+TON,Tonga,Oceania,2,73,2001,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,78,2001,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,100,63,2001,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,560,41,2001,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,29,27,2001,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6500,550,2001,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,130,33,2001,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,6,2001,,23.42,53.85
+GBR,United Kingdom,Europe & North America,73,11,2001,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,819,2001,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,510,13,2001,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,13,25,2001,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,230,41,2001,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,9,135,2001,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,710,123,2001,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,890,65,2001,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,2000,290,2001,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2400,491,2001,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2400,629,2001,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,14000,1300,2002,54.5,33.94,67.71
+ALB,Albania,Europe & North America,10,21,2002,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,910,148,2002,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,5800,690,2002,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,43,2002,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,470,65,2002,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,16,39,2002,23.5,40.07,45.04
+AUS,Australia,Oceania,14,6,2002,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,5,6,2002,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,58,43,2002,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2002,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,25,2002,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,14000,410,2002,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,47,2002,,13.19,-59.54
+BLR,Belarus,Europe & North America,16,18,2002,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2002,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,6,82,2002,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,511,2002,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,56,365,2002,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,790,309,2002,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,140,278,2002,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,69,2002,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,11,17,2002,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2700,486,2002,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2700,925,2002,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1500,430,2002,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5400,803,2002,37.5,7.37,12.35
+CAN,Canada,Europe & North America,33,10,2002,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,2000,1280,2002,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6400,1400,2002,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,69,28,2002,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,8800,51,2002,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,800,92,2002,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,91,429,2002,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,28,38,2002,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5000,713,2002,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,10,2002,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,57,41,2002,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,10,2002,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,5,8,2002,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,110,470,2002,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,160,75,2002,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,350,110,2002,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1100,60,2002,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,93,68,2002,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,392,2002,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,970,1130,2002,69,15.18,39.78
+EST,Estonia,Europe & North America,3,25,2002,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,170,534,2002,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,29000,985,2002,23.5,9.15,40.49
+FJI,Fiji,Oceania,9,48,2002,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,5,2002,11.6,61.92,25.75
+FRA,France,Europe & North America,73,10,2002,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,150,361,2002,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,876,2002,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,22,42,2002,19.5,42.32,43.36
+DEU,Germany,Europe & North America,49,7,2002,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2900,415,2002,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2002,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,34,2002,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,600,145,2002,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,4100,1090,2002,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,600,1150,2002,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,41,227,2002,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1200,441,2002,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,180,80,2002,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,15,16,2002,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,6,2002,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,94000,336,2002,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,13000,265,2002,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,480,41,2002,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,640,74,2002,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2002,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,9,7,2002,16.9,31.05,34.85
+ITA,Italy,Europe & North America,17,3,2002,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,43,78,2002,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,88,8,2002,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,65,2002,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,130,52,2002,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,9200,692,2002,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,127,2002,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2002,,29.31,47.48
+LVA,Latvia,Europe & North America,7,33,2002,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,21,26,2002,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,410,653,2002,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1200,1010,2002,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,78,66,2002,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,14,2002,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,9,2002,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3700,547,2002,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3600,714,2002,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,170,34,2002,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,6,105,2002,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4400,764,2002,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,9,2002,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,880,836,2002,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,54,2002,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1300,56,2002,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,58,124,2002,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,11,2002,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,1000,162,2002,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,5900,700,2002,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3700,323,2002,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,200,356,2002,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,3800,520,2002,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,25,13,2002,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,12,2002,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,200,151,2002,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5100,795,2002,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,1180,2002,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,5,2002,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,20,2002,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,13000,264,2002,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,66,91,2002,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,480,234,2002,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,220,155,2002,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,810,132,2002,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3800,160,2002,21.6,12.88,121.77
+POL,Poland,Europe & North America,20,5,2002,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,11,10,2002,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,13,2002,,25.35,51.18
+ROU,Romania,Europe & North America,100,47,2002,23.8,45.94,24.97
+RUS,Russia,Europe & North America,710,51,2002,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,3000,961,2002,38.2,-1.94,29.87
+WSM,Samoa,Oceania,4,84,2002,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,169,2002,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,130,23,2002,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,537,2002,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,15,13,2002,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,54,2002,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4500,2080,2002,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,7,14,2002,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,7,2002,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,11,2002,12,46.15,15.00
+SLB,Solomon Islands,Oceania,34,222,2002,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1140,2002,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1900,177,2002,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4700,1660,2002,82.3,4.86,31.57
+ESP,Spain,Europe & North America,20,5,2002,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,180,50,2002,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,6900,614,2002,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,23,207,2002,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2002,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2002,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,26,2002,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,83,43,2002,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,380,44,2002,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,489,2002,55.1,8.62,0.82
+TON,Tonga,Oceania,2,71,2002,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,74,2002,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,99,60,2002,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,530,39,2002,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,26,25,2002,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6500,537,2002,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,130,33,2002,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,5,2002,,23.42,53.85
+GBR,United Kingdom,Europe & North America,75,11,2002,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,788,2002,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,520,13,2002,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,13,25,2002,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,230,41,2002,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,8,128,2002,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,780,135,2002,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,850,62,2002,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,2000,278,2002,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2300,465,2002,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2600,666,2002,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,14000,1240,2003,54.5,33.94,67.71
+ALB,Albania,Europe & North America,9,21,2003,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,920,145,2003,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,5500,628,2003,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,44,2003,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,470,65,2003,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,15,38,2003,23.5,40.07,45.04
+AUS,Australia,Oceania,14,6,2003,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,5,6,2003,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,60,44,2003,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,79,2003,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,21,2003,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,14000,395,2003,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,45,2003,,13.19,-59.54
+BLR,Belarus,Europe & North America,14,15,2003,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2003,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,6,80,2003,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,510,2003,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,52,348,2003,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,760,297,2003,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,140,278,2003,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,70,2003,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,11,16,2003,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2700,471,2003,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2700,890,2003,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1400,404,2003,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5300,771,2003,37.5,7.37,12.35
+CAN,Canada,Europe & North America,35,10,2003,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,2000,1250,2003,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6500,1370,2003,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,66,27,2003,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,8300,48,2003,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,750,88,2003,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,91,423,2003,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,27,37,2003,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5000,711,2003,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,10,2003,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,55,41,2003,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,9,2003,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,5,7,2003,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,100,449,2003,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,160,76,2003,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,320,100,2003,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1000,57,2003,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,88,66,2003,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,100,370,2003,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,970,1060,2003,69,15.18,39.78
+EST,Estonia,Europe & North America,3,20,2003,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,180,538,2003,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,29000,972,2003,23.5,9.15,40.49
+FJI,Fiji,Oceania,9,48,2003,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,5,2003,11.6,61.92,25.75
+FRA,France,Europe & North America,73,9,2003,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,150,356,2003,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,510,843,2003,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,19,37,2003,19.5,42.32,43.36
+DEU,Germany,Europe & North America,46,6,2003,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,398,2003,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2003,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,34,2003,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,570,137,2003,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,4100,1080,2003,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,590,1110,2003,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,40,226,2003,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1200,446,2003,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,170,78,2003,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,14,15,2003,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,6,2003,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,89000,319,2003,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,13000,261,2003,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,460,39,2003,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1200,136,2003,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,3,6,2003,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,8,6,2003,16.9,31.05,34.85
+ITA,Italy,Europe & North America,17,3,2003,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,42,79,2003,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,85,7,2003,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,63,2003,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,130,49,2003,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,9200,678,2003,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,124,2003,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2003,,29.31,47.48
+LVA,Latvia,Europe & North America,7,34,2003,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,20,25,2003,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,420,671,2003,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,878,2003,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,76,64,2003,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,14,2003,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,8,2003,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3700,543,2003,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3600,687,2003,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,160,33,2003,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,6,97,2003,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4300,739,2003,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,10,2003,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,900,836,2003,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,11,57,2003,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1300,55,2003,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,54,114,2003,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,11,2003,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,980,152,2003,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,5600,657,2003,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3600,314,2003,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,200,359,2003,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,3300,470,2003,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,24,12,2003,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,12,2003,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,200,145,2003,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5200,782,2003,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,1170,2003,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,5,2003,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,20,2003,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,13000,254,2003,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,68,93,2003,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,460,225,2003,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,210,150,2003,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,780,127,2003,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3700,156,2003,21.6,12.88,121.77
+POL,Poland,Europe & North America,18,5,2003,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,11,10,2003,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,13,2003,,25.35,51.18
+ROU,Romania,Europe & North America,92,43,2003,23.8,45.94,24.97
+RUS,Russia,Europe & North America,710,49,2003,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,2800,870,2003,38.2,-1.94,29.87
+WSM,Samoa,Oceania,4,80,2003,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,167,2003,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,130,23,2003,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,532,2003,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,14,13,2003,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,54,2003,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4400,1960,2003,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,6,13,2003,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,7,2003,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,10,2003,12,46.15,15.00
+SLB,Solomon Islands,Oceania,33,210,2003,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5100,1100,2003,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2000,186,2003,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4700,1610,2003,82.3,4.86,31.57
+ESP,Spain,Europe & North America,21,5,2003,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,180,50,2003,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,6800,598,2003,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,21,189,2003,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2003,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2003,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,25,2003,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,68,35,2003,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,380,44,2003,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,489,2003,55.1,8.62,0.82
+TON,Tonga,Oceania,2,69,2003,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,75,2003,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,94,57,2003,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,500,38,2003,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,23,21,2003,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6500,520,2003,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,130,32,2003,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,5,2003,,23.42,53.85
+GBR,United Kingdom,Europe & North America,77,11,2003,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,763,2003,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,540,13,2003,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,12,23,2003,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,220,39,2003,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,8,123,2003,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,740,127,2003,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,820,59,2003,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1900,266,2003,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2300,453,2003,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2700,680,2003,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,13000,1180,2004,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,18,2004,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,890,134,2004,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,5200,574,2004,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,41,2004,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,440,61,2004,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,15,36,2004,23.5,40.07,45.04
+AUS,Australia,Oceania,14,5,2004,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2004,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,53,39,2004,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2004,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,21,2004,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,13000,372,2004,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,43,2004,,13.19,-59.54
+BLR,Belarus,Europe & North America,12,13,2004,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2004,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,6,75,2004,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,505,2004,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,49,332,2004,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,720,283,2004,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,140,264,2004,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,71,2004,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,11,16,2004,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2700,454,2004,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2600,844,2004,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1300,378,2004,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5200,732,2004,37.5,7.37,12.35
+CAN,Canada,Europe & North America,35,10,2004,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,2000,1230,2004,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6500,1350,2004,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,66,27,2004,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,7800,46,2004,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,710,85,2004,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,90,414,2004,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,26,36,2004,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5000,709,2004,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,10,2004,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,53,40,2004,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,9,2004,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,5,7,2004,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,95,426,2004,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,170,81,2004,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,300,94,2004,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,990,54,2004,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,84,64,2004,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,100,357,2004,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,910,938,2004,69,15.18,39.78
+EST,Estonia,Europe & North America,3,18,2004,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,180,539,2004,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,28000,929,2004,23.5,9.15,40.49
+FJI,Fiji,Oceania,9,47,2004,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,5,2004,11.6,61.92,25.75
+FRA,France,Europe & North America,71,9,2004,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,160,354,2004,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,500,802,2004,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,19,38,2004,19.5,42.32,43.36
+DEU,Germany,Europe & North America,43,6,2004,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,384,2004,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2004,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,38,2004,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,570,137,2004,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3900,1020,2004,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,570,1050,2004,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,38,220,2004,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1400,513,2004,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,170,77,2004,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,14,15,2004,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,6,2004,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,84000,303,2004,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,13000,264,2004,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,430,36,2004,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1100,122,2004,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2004,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,8,6,2004,16.9,31.05,34.85
+ITA,Italy,Europe & North America,16,3,2004,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,42,80,2004,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,82,7,2004,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,62,2004,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,130,46,2004,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,9100,653,2004,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,121,2004,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2004,,29.31,47.48
+LVA,Latvia,Europe & North America,7,32,2004,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,19,24,2004,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,420,680,2004,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,837,2004,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,74,61,2004,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,13,2004,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,8,2004,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3700,539,2004,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3500,654,2004,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,32,2004,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,89,2004,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4300,715,2004,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,9,2004,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,920,830,2004,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,54,2004,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1200,54,2004,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,52,106,2004,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,10,2004,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,920,142,2004,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,5400,615,2004,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3500,307,2004,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,200,358,2004,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,3100,447,2004,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,22,11,2004,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2004,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,190,138,2004,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5300,770,2004,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,65000,1130,2004,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,5,2004,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,19,2004,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,12000,243,2004,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,64,88,2004,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,440,213,2004,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,200,144,2004,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,750,122,2004,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3700,156,2004,21.6,12.88,121.77
+POL,Poland,Europe & North America,18,5,2004,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,11,10,2004,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,13,2004,,25.35,51.18
+ROU,Romania,Europe & North America,85,39,2004,23.8,45.94,24.97
+RUS,Russia,Europe & North America,660,45,2004,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,2500,758,2004,38.2,-1.94,29.87
+WSM,Samoa,Oceania,4,74,2004,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,166,2004,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,130,22,2004,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,526,2004,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,13,13,2004,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2004,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4200,1850,2004,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,6,14,2004,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,7,2004,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,11,2004,12,46.15,15.00
+SLB,Solomon Islands,Oceania,31,199,2004,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5100,1080,2004,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2100,195,2004,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4700,1550,2004,82.3,4.86,31.57
+ESP,Spain,Europe & North America,21,5,2004,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,170,48,2004,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,6700,580,2004,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,19,176,2004,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2004,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2004,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,26,2004,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,64,33,2004,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,390,46,2004,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,488,2004,55.1,8.62,0.82
+TON,Tonga,Oceania,2,67,2004,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,76,2004,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,90,54,2004,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,470,35,2004,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,22,20,2004,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6500,512,2004,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,140,33,2004,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,5,2004,,23.42,53.85
+GBR,United Kingdom,Europe & North America,79,11,2004,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,741,2004,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,540,13,2004,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,12,23,2004,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,37,2004,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,8,119,2004,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,700,119,2004,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,790,57,2004,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1800,254,2004,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2200,437,2004,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2800,686,2004,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,13000,1140,2005,54.5,33.94,67.71
+ALB,Albania,Europe & North America,9,22,2005,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,880,127,2005,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,4800,519,2005,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,40,2005,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,430,59,2005,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,15,35,2005,23.5,40.07,45.04
+AUS,Australia,Oceania,14,5,2005,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,6,2005,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,57,42,2005,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,77,2005,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,19,2005,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,11000,343,2005,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,2,42,2005,,13.19,-59.54
+BLR,Belarus,Europe & North America,11,11,2005,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2005,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,5,70,2005,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,500,2005,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,45,310,2005,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,690,271,2005,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,120,239,2005,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,71,2005,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,11,15,2005,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2600,437,2005,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2600,814,2005,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1200,351,2005,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,5000,692,2005,37.5,7.37,12.35
+CAN,Canada,Europe & North America,39,11,2005,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,2000,1200,2005,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6600,1330,2005,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,60,25,2005,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,7500,44,2005,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,680,83,2005,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,90,404,2005,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,24,33,2005,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5100,704,2005,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,10,2005,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,53,41,2005,,21.52,-77.78
+CYP,Cyprus,Europe & North America,2,12,2005,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,4,6,2005,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,87,393,2005,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,170,83,2005,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,300,94,2005,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,970,52,2005,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,80,62,2005,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,100,344,2005,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,820,804,2005,69,15.18,39.78
+EST,Estonia,Europe & North America,3,18,2005,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,180,532,2005,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,26000,865,2005,23.5,9.15,40.49
+FJI,Fiji,Oceania,9,46,2005,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,5,2005,11.6,61.92,25.75
+FRA,France,Europe & North America,72,9,2005,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,160,348,2005,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,490,756,2005,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,20,39,2005,19.5,42.32,43.36
+DEU,Germany,Europe & North America,42,6,2005,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,371,2005,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2005,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,33,2005,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,580,142,2005,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3500,920,2005,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,540,979,2005,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,38,223,2005,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,459,2005,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,170,77,2005,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,14,15,2005,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2005,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,79000,286,2005,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,252,2005,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,410,34,2005,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1200,127,2005,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,7,2005,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,8,5,2005,16.9,31.05,34.85
+ITA,Italy,Europe & North America,15,3,2005,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,42,80,2005,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,80,7,2005,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,62,2005,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,130,43,2005,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,8700,618,2005,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,119,2005,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2005,,29.31,47.48
+LVA,Latvia,Europe & North America,7,30,2005,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,18,24,2005,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,420,679,2005,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,816,2005,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,71,57,2005,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,14,2005,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,9,2005,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3700,526,2005,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3300,610,2005,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,31,2005,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,75,2005,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4300,691,2005,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,8,2005,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,930,826,2005,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,53,2005,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1200,54,2005,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,50,98,2005,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,9,2005,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,850,131,2005,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,5100,577,2005,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3300,299,2005,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,200,346,2005,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,2800,415,2005,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,20,11,2005,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2005,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,180,131,2005,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5300,755,2005,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,64000,1080,2005,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,5,2005,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,10,19,2005,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,12000,237,2005,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,65,88,2005,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,420,200,2005,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,190,137,2005,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,730,118,2005,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3700,156,2005,21.6,12.88,121.77
+POL,Poland,Europe & North America,17,4,2005,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,10,9,2005,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,12,2005,,25.35,51.18
+ROU,Romania,Europe & North America,78,35,2005,23.8,45.94,24.97
+RUS,Russia,Europe & North America,650,42,2005,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,2100,643,2005,38.2,-1.94,29.87
+WSM,Samoa,Oceania,4,72,2005,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,163,2005,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,22,2005,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,519,2005,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,13,12,2005,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2005,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4100,1760,2005,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,6,13,2005,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,7,2005,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,10,2005,12,46.15,15.00
+SLB,Solomon Islands,Oceania,30,188,2005,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5100,1040,2005,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2200,201,2005,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4600,1480,2005,82.3,4.86,31.57
+ESP,Spain,Europe & North America,22,5,2005,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,160,45,2005,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,6200,529,2005,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,18,164,2005,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2005,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2005,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,25,2005,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,64,32,2005,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,360,43,2005,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,492,2005,55.1,8.62,0.82
+TON,Tonga,Oceania,2,66,2005,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,76,2005,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,86,51,2005,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,430,33,2005,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,20,18,2005,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6400,491,2005,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,140,33,2005,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,5,2005,,23.42,53.85
+GBR,United Kingdom,Europe & North America,80,11,2005,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,721,2005,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,560,13,2005,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,11,22,2005,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,220,38,2005,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,8,113,2005,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,660,113,2005,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,760,54,2005,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1800,242,2005,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2200,421,2005,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2800,685,2005,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,13000,1120,2006,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,18,2006,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,890,122,2006,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,4500,473,2006,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,46,2006,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,420,57,2006,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,16,36,2006,23.5,40.07,45.04
+AUS,Australia,Oceania,14,5,2006,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2006,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,50,35,2006,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2006,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,24,2006,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,10000,315,2006,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,41,2006,,13.19,-59.54
+BLR,Belarus,Europe & North America,9,9,2006,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2006,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,5,65,2006,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,493,2006,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,42,291,2006,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,660,258,2006,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,120,221,2006,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2300,72,2006,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,11,14,2006,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2600,422,2006,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2600,785,2006,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1100,326,2006,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4900,658,2006,37.5,7.37,12.35
+CAN,Canada,Europe & North America,40,11,2006,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1900,1170,2006,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6900,1340,2006,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,60,25,2006,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,7200,42,2006,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,660,82,2006,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,89,393,2006,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,25,35,2006,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5100,699,2006,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2006,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,48,38,2006,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,9,2006,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,4,6,2006,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,79,361,2006,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,180,86,2006,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,290,90,2006,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,960,50,2006,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,76,60,2006,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,100,331,2006,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,750,705,2006,69,15.18,39.78
+EST,Estonia,Europe & North America,2,16,2006,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,170,518,2006,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,24000,795,2006,23.5,9.15,40.49
+FJI,Fiji,Oceania,8,44,2006,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,4,2006,11.6,61.92,25.75
+FRA,France,Europe & North America,72,9,2006,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,160,340,2006,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,470,716,2006,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,33,2006,19.5,42.32,43.36
+DEU,Germany,Europe & North America,40,6,2006,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,359,2006,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2006,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,31,2006,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,560,137,2006,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3200,831,2006,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,510,912,2006,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,37,221,2006,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,467,2006,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,170,77,2006,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,13,14,2006,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2006,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,74000,270,2006,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,249,2006,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,400,32,2006,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1500,158,2006,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2006,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,7,5,2006,16.9,31.05,34.85
+ITA,Italy,Europe & North America,14,2,2006,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,41,79,2006,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,75,7,2006,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,58,2006,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,130,40,2006,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,8300,583,2006,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,117,2006,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2006,,29.31,47.48
+LVA,Latvia,Europe & North America,7,32,2006,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,18,24,2006,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,400,668,2006,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,782,2006,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,69,55,2006,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,14,2006,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,9,2006,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3600,513,2006,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3200,566,2006,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,30,2006,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,71,2006,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4300,675,2006,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,8,2006,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,950,821,2006,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,55,2006,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1200,51,2006,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,49,91,2006,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,9,2006,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,790,121,2006,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,4900,539,2006,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3200,293,2006,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,190,328,2006,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,2500,386,2006,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,18,9,2006,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2006,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,170,124,2006,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5400,739,2006,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,63000,1040,2006,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,4,2006,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,10,18,2006,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,11000,222,2006,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,65,88,2006,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,400,187,2006,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,180,130,2006,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,710,114,2006,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3700,156,2006,21.6,12.88,121.77
+POL,Poland,Europe & North America,16,4,2006,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,10,9,2006,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,11,2006,,25.35,51.18
+ROU,Romania,Europe & North America,71,32,2006,23.8,45.94,24.97
+RUS,Russia,Europe & North America,560,36,2006,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1800,541,2006,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,66,2006,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,158,2006,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,21,2006,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2300,514,2006,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,12,12,2006,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2006,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,4000,1680,2006,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,6,13,2006,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2006,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,1,8,2006,12,46.15,15.00
+SLB,Solomon Islands,Oceania,29,177,2006,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1040,2006,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2300,201,2006,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4500,1410,2006,82.3,4.86,31.57
+ESP,Spain,Europe & North America,22,4,2006,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,170,47,2006,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,6000,508,2006,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,18,165,2006,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2006,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,7,2006,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,26,2006,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,61,29,2006,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,350,42,2006,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,482,2006,55.1,8.62,0.82
+TON,Tonga,Oceania,2,64,2006,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,73,2006,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,83,49,2006,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,400,30,2006,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,20,18,2006,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6300,473,2006,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,140,31,2006,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,4,2006,,23.42,53.85
+GBR,United Kingdom,Europe & North America,81,11,2006,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,703,2006,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,570,14,2006,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,10,20,2006,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,37,2006,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,8,108,2006,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,670,114,2006,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,730,51,2006,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1700,230,2006,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2100,406,2006,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2900,680,2006,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,13000,1090,2007,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,19,2007,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,920,119,2007,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,4300,431,2007,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,48,2007,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,410,56,2007,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,14,32,2007,23.5,40.07,45.04
+AUS,Australia,Oceania,15,5,2007,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2007,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,49,34,2007,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,77,2007,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,16,2007,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,9600,297,2007,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,40,2007,,13.19,-59.54
+BLR,Belarus,Europe & North America,8,7,2007,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,9,7,2007,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,5,61,2007,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,486,2007,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,39,275,2007,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,620,246,2007,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,110,209,2007,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2200,71,2007,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,10,13,2007,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2600,410,2007,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2600,756,2007,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1100,303,2007,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,635,2007,37.5,7.37,12.35
+CAN,Canada,Europe & North America,41,11,2007,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1900,1130,2007,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6800,1300,2007,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,57,23,2007,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,6900,40,2007,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,660,83,2007,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,88,382,2007,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2007,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5100,698,2007,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2007,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,48,38,2007,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,8,2007,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,4,6,2007,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,73,335,2007,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,190,90,2007,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,270,85,2007,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,930,47,2007,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,73,58,2007,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,100,322,2007,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,700,635,2007,69,15.18,39.78
+EST,Estonia,Europe & North America,3,17,2007,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,160,496,2007,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,22000,731,2007,23.5,9.15,40.49
+FJI,Fiji,Oceania,8,43,2007,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,4,2007,11.6,61.92,25.75
+FRA,France,Europe & North America,72,9,2007,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,160,336,2007,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,470,690,2007,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,20,36,2007,19.5,42.32,43.36
+DEU,Germany,Europe & North America,39,6,2007,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,349,2007,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2007,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,31,2007,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,540,132,2007,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3000,772,2007,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,490,860,2007,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,34,208,2007,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,473,2007,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,160,77,2007,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,14,15,2007,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2007,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,69000,255,2007,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,243,2007,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,380,30,2007,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1300,138,2007,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2007,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,7,5,2007,16.9,31.05,34.85
+ITA,Italy,Europe & North America,14,2,2007,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,41,79,2007,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,72,6,2007,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,56,2007,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,120,36,2007,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,7900,545,2007,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,115,2007,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,5,10,2007,,29.31,47.48
+LVA,Latvia,Europe & North America,7,32,2007,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,17,23,2007,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,390,652,2007,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,754,2007,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,68,53,2007,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,14,2007,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,8,2007,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3600,503,2007,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,3000,526,2007,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,30,2007,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,71,2007,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4300,663,2007,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,8,2007,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,970,820,2007,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,56,2007,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1100,49,2007,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,49,85,2007,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,8,2007,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,740,113,2007,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,4600,505,2007,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3100,287,2007,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,180,306,2007,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,2300,361,2007,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,16,9,2007,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2007,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,160,121,2007,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5500,725,2007,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,62000,1010,2007,40.1,9.08,8.68
+NOR,Norway,Europe & North America,3,4,2007,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,18,2007,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,11000,214,2007,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,64,86,2007,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,380,179,2007,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,170,124,2007,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,690,112,2007,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3500,149,2007,21.6,12.88,121.77
+POL,Poland,Europe & North America,15,4,2007,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,9,9,2007,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,11,2007,,25.35,51.18
+ROU,Romania,Europe & North America,66,30,2007,23.8,45.94,24.97
+RUS,Russia,Europe & North America,520,32,2007,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1600,469,2007,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,62,2007,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,154,2007,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,21,2007,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2300,504,2007,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,12,12,2007,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2007,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3900,1610,2007,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,6,12,2007,,1.35,103.82
+SVK,Slovakia,Europe & North America,4,7,2007,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,8,2007,12,46.15,15.00
+SLB,Solomon Islands,Oceania,29,172,2007,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1030,2007,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2300,199,2007,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4400,1330,2007,82.3,4.86,31.57
+ESP,Spain,Europe & North America,22,4,2007,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,160,43,2007,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,5700,479,2007,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,18,167,2007,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2007,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2007,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,26,2007,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,59,27,2007,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,350,42,2007,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,480,2007,55.1,8.62,0.82
+TON,Tonga,Oceania,2,62,2007,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,13,65,2007,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,83,47,2007,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,370,28,2007,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,18,15,2007,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6400,465,2007,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,150,33,2007,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,4,2007,,23.42,53.85
+GBR,United Kingdom,Europe & North America,82,11,2007,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,685,2007,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,570,14,2007,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,10,20,2007,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,35,2007,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,103,2007,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,670,114,2007,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,49,2007,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1700,219,2007,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,2100,387,2007,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2900,671,2007,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,12000,1030,2008,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,20,2008,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,950,117,2008,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,4000,395,2008,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,50,2008,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,390,53,2008,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,16,36,2008,23.5,40.07,45.04
+AUS,Australia,Oceania,15,5,2008,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2008,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,49,32,2008,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,77,2008,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,18,2008,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,9000,280,2008,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,39,2008,,13.19,-59.54
+BLR,Belarus,Europe & North America,7,6,2008,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,7,2008,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,59,2008,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,480,2008,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,36,264,2008,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,590,234,2008,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,110,203,2008,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2100,70,2008,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,9,13,2008,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2600,401,2008,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2600,733,2008,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,1000,284,2008,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,618,2008,37.5,7.37,12.35
+CAN,Canada,Europe & North America,44,12,2008,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1800,1090,2008,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7000,1310,2008,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,53,21,2008,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,6900,40,2008,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,650,84,2008,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,87,370,2008,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2008,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5200,694,2008,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2008,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,50,40,2008,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,9,2008,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,4,6,2008,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,69,320,2008,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,190,92,2008,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,260,82,2008,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,940,45,2008,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,71,57,2008,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,314,2008,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,680,605,2008,69,15.18,39.78
+EST,Estonia,Europe & North America,2,14,2008,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,160,474,2008,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,21000,681,2008,23.5,9.15,40.49
+FJI,Fiji,Oceania,8,42,2008,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,4,2008,11.6,61.92,25.75
+FRA,France,Europe & North America,75,9,2008,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,332,2008,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,470,675,2008,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,22,39,2008,19.5,42.32,43.36
+DEU,Germany,Europe & North America,39,6,2008,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,342,2008,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2008,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,30,2008,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,510,125,2008,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3000,754,2008,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,480,827,2008,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,31,192,2008,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,484,2008,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,160,76,2008,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,13,14,2008,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2008,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,64000,240,2008,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,239,2008,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,360,28,2008,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,860,90,2008,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,5,7,2008,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2008,16.9,31.05,34.85
+ITA,Italy,Europe & North America,13,2,2008,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,40,79,2008,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,70,6,2008,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,55,2008,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,100,30,2008,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,7500,513,2008,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,115,2008,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,6,10,2008,,29.31,47.48
+LVA,Latvia,Europe & North America,6,29,2008,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,18,23,2008,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,370,623,2008,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,738,2008,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,68,52,2008,,26.34,17.23
+LTU,Lithuania,Europe & North America,4,13,2008,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,6,2008,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3600,491,2008,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2800,493,2008,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,29,2008,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,72,2008,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4400,661,2008,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,8,2008,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1000,819,2008,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,53,2008,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1100,49,2008,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,49,80,2008,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,8,2008,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,710,106,2008,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,4400,471,2008,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,3000,289,2008,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,180,284,2008,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,2100,342,2008,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,15,8,2008,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,10,2008,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,160,116,2008,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5500,709,2008,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,63000,996,2008,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,4,2008,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,11,18,2008,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,11000,205,2008,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,64,84,2008,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,370,173,2008,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,170,118,2008,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,660,108,2008,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3500,148,2008,21.6,12.88,121.77
+POL,Poland,Europe & North America,14,4,2008,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,9,9,2008,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,11,2008,,25.35,51.18
+ROU,Romania,Europe & North America,63,28,2008,23.8,45.94,24.97
+RUS,Russia,Europe & North America,490,30,2008,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1500,427,2008,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,60,2008,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,10,150,2008,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,20,2008,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2300,492,2008,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,12,12,2008,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2008,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3800,1530,2008,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,5,11,2008,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2008,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,8,2008,12,46.15,15.00
+SLB,Solomon Islands,Oceania,27,159,2008,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,1010,2008,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2200,191,2008,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4300,1250,2008,82.3,4.86,31.57
+ESP,Spain,Europe & North America,22,4,2008,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,150,42,2008,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,5500,454,2008,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,18,169,2008,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2008,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2008,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,26,2008,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,57,26,2008,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,350,43,2008,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,473,2008,55.1,8.62,0.82
+TON,Tonga,Oceania,2,60,2008,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,72,2008,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,84,47,2008,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,350,27,2008,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,16,13,2008,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6400,455,2008,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,160,33,2008,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,4,2008,,23.42,53.85
+GBR,United Kingdom,Europe & North America,84,11,2008,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,666,2008,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,580,14,2008,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,9,19,2008,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,34,2008,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,99,2008,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,690,116,2008,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,49,2008,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1600,208,2008,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1900,356,2008,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2900,657,2008,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,12000,993,2009,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,20,2009,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,990,117,2009,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3700,359,2009,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,45,2009,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,410,56,2009,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,14,32,2009,23.5,40.07,45.04
+AUS,Australia,Oceania,16,5,2009,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2009,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,50,32,2009,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2009,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,19,2009,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,8500,269,2009,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,38,2009,,13.19,-59.54
+BLR,Belarus,Europe & North America,6,6,2009,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,6,2009,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,57,2009,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,471,2009,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,35,255,2009,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,560,222,2009,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,100,189,2009,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,2100,69,2009,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,9,12,2009,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2600,393,2009,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2500,698,2009,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,960,265,2009,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,606,2009,37.5,7.37,12.35
+CAN,Canada,Europe & North America,44,12,2009,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1800,1050,2009,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7000,1270,2009,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,52,21,2009,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,6500,37,2009,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,660,87,2009,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,85,356,2009,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2009,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5300,700,2009,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2009,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,50,40,2009,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,8,2009,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,4,6,2009,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,64,299,2009,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,95,2009,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,260,80,2009,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,970,45,2009,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,69,57,2009,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,310,2009,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,660,583,2009,69,15.18,39.78
+EST,Estonia,Europe & North America,2,14,2009,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,150,460,2009,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,20000,638,2009,23.5,9.15,40.49
+FJI,Fiji,Oceania,8,40,2009,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,4,2009,11.6,61.92,25.75
+FRA,France,Europe & North America,76,9,2009,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,324,2009,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,480,668,2009,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,24,43,2009,19.5,42.32,43.36
+DEU,Germany,Europe & North America,39,6,2009,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,339,2009,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2009,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,30,2009,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,530,131,2009,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3000,750,2009,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,470,800,2009,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,30,185,2009,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,484,2009,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,160,75,2009,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,12,13,2009,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2009,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,60000,225,2009,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,234,2009,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,330,25,2009,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,740,75,2009,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,5,7,2009,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2009,16.9,31.05,34.85
+ITA,Italy,Europe & North America,13,2,2009,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,40,79,2009,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,68,6,2009,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,54,2009,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,87,24,2009,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,6900,472,2009,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,113,2009,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,6,10,2009,,29.31,47.48
+LVA,Latvia,Europe & North America,6,28,2009,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,19,23,2009,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,360,607,2009,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,724,2009,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,71,53,2009,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,11,2009,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,7,2009,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3500,474,2009,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2700,466,2009,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,29,2009,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,71,2009,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4500,661,2009,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,7,2009,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1000,822,2009,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,59,2009,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1200,51,2009,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,47,73,2009,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,8,2009,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,670,99,2009,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,4100,439,2009,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2800,274,2009,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,170,276,2009,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,2000,323,2009,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,14,8,2009,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2009,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,160,113,2009,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5500,688,2009,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,64000,987,2009,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,4,2009,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,12,18,2009,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,11000,199,2009,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,63,82,2009,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,370,170,2009,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,160,113,2009,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,650,106,2009,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3500,149,2009,21.6,12.88,121.77
+POL,Poland,Europe & North America,13,3,2009,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,9,9,2009,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2009,,25.35,51.18
+ROU,Romania,Europe & North America,62,28,2009,23.8,45.94,24.97
+RUS,Russia,Europe & North America,460,27,2009,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1500,424,2009,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,58,2009,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,145,2009,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,20,2009,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,472,2009,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,12,12,2009,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2009,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3600,1450,2009,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,5,10,2009,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2009,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,8,2009,12,46.15,15.00
+SLB,Solomon Islands,Oceania,27,152,2009,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,994,2009,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2100,179,2009,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4100,1170,2009,82.3,4.86,31.57
+ESP,Spain,Europe & North America,21,4,2009,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,150,41,2009,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,5300,433,2009,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,17,159,2009,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2009,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2009,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,26,2009,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,60,26,2009,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,340,43,2009,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,458,2009,55.1,8.62,0.82
+TON,Tonga,Oceania,2,61,2009,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,15,74,2009,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,87,46,2009,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,330,25,2009,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,14,12,2009,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6300,442,2009,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,140,27,2009,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,4,2009,,23.42,53.85
+GBR,United Kingdom,Europe & North America,81,10,2009,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,656,2009,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,600,15,2009,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,9,19,2009,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,32,2009,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,96,2009,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,710,119,2009,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,48,2009,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1600,200,2009,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1800,329,2009,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2900,632,2009,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,11000,954,2010,54.5,33.94,67.71
+ALB,Albania,Europe & North America,7,21,2010,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1000,115,2010,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3500,326,2010,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,44,2010,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,380,51,2010,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,14,32,2010,23.5,40.07,45.04
+AUS,Australia,Oceania,16,5,2010,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2010,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,51,31,2010,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2010,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,18,2010,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,8100,258,2010,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,36,2010,,13.19,-59.54
+BLR,Belarus,Europe & North America,6,5,2010,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,6,2010,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,54,2010,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,464,2010,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,33,247,2010,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,530,212,2010,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,99,179,2010,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1900,65,2010,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,9,12,2010,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,385,2010,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2500,665,2010,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,910,248,2010,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,597,2010,37.5,7.37,12.35
+CAN,Canada,Europe & North America,42,11,2010,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1700,1000,2010,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7000,1240,2010,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,51,20,2010,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,6200,36,2010,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,640,85,2010,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,83,341,2010,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,23,32,2010,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5400,701,2010,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2010,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,52,41,2010,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,8,2010,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,3,5,2010,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,60,283,2010,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,96,2010,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,250,78,2010,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1000,45,2010,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,66,54,2010,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,308,2010,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,650,567,2010,69,15.18,39.78
+EST,Estonia,Europe & North America,2,11,2010,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,150,450,2010,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,19000,597,2010,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,39,2010,34,-16.58,179.41
+FIN,Finland,Europe & North America,3,4,2010,11.6,61.92,25.75
+FRA,France,Europe & North America,74,9,2010,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,314,2010,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,490,661,2010,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,18,32,2010,19.5,42.32,43.36
+DEU,Germany,Europe & North America,38,6,2010,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,339,2010,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2010,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,29,2010,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,520,129,2010,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3000,747,2010,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,470,779,2010,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,28,179,2010,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1400,506,2010,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,150,74,2010,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,12,13,2010,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2010,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,55000,210,2010,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,12000,228,2010,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,290,22,2010,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,710,70,2010,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2010,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2010,16.9,31.05,34.85
+ITA,Italy,Europe & North America,12,2,2010,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,39,79,2010,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,65,6,2010,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,53,2010,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,80,22,2010,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,6400,432,2010,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,112,2010,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,6,10,2010,,29.31,47.48
+LVA,Latvia,Europe & North America,6,26,2010,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,20,23,2010,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,350,594,2010,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,708,2010,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,72,53,2010,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,10,2010,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,8,2010,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3400,453,2010,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2600,444,2010,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,140,30,2010,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,67,2010,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4600,660,2010,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,8,2010,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,824,2010,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,66,2010,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,1100,46,2010,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,44,66,2010,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,7,2010,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,630,92,2010,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,4000,412,2010,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2700,265,2010,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,170,266,2010,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1900,305,2010,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,13,7,2010,13.2,52.13,5.29
+NZL,New Zealand,Oceania,7,11,2010,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,150,112,2010,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5500,663,2010,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,64000,978,2010,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,4,2010,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,12,18,2010,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,10000,191,2010,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,61,79,2010,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,370,168,2010,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,150,108,2010,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,620,104,2010,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3400,144,2010,21.6,12.88,121.77
+POL,Poland,Europe & North America,11,3,2010,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,9,9,2010,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2010,,25.35,51.18
+ROU,Romania,Europe & North America,58,27,2010,23.8,45.94,24.97
+RUS,Russia,Europe & North America,450,25,2010,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1300,373,2010,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,58,2010,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,140,2010,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,120,19,2010,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2200,447,2010,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,11,12,2010,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2010,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3400,1360,2010,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,5,10,2010,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2010,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,8,2010,12,46.15,15.00
+SLB,Solomon Islands,Oceania,26,141,2010,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,985,2010,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,2000,171,2010,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,3900,1100,2010,82.3,4.86,31.57
+ESP,Spain,Europe & North America,20,4,2010,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,140,38,2010,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,5000,408,2010,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,16,148,2010,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,4,2010,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2010,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,27,2010,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,55,23,2010,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,330,42,2010,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1100,440,2010,55.1,8.62,0.82
+TON,Tonga,Oceania,2,57,2010,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,71,2010,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,89,46,2010,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,310,24,2010,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,13,10,2010,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6300,430,2010,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,120,25,2010,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,4,4,2010,,23.42,53.85
+GBR,United Kingdom,Europe & North America,78,10,2010,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,12000,644,2010,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,600,15,2010,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,8,17,2010,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,200,31,2010,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,92,2010,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,690,117,2010,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,47,2010,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1500,192,2010,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1700,305,2010,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2800,598,2010,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,11000,905,2011,54.5,33.94,67.71
+ALB,Albania,Europe & North America,8,22,2011,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1100,116,2011,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3300,300,2011,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,43,2011,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,360,48,2011,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,13,30,2011,23.5,40.07,45.04
+AUS,Australia,Oceania,18,6,2011,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2011,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,51,30,2011,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2011,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,15,2011,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,7700,248,2011,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,35,2011,,13.19,-59.54
+BLR,Belarus,Europe & North America,5,5,2011,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,8,6,2011,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,52,2011,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,458,2011,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,31,239,2011,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,510,202,2011,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,98,176,2011,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1800,61,2011,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,8,12,2011,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,377,2011,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,635,2011,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,850,232,2011,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,589,2011,37.5,7.37,12.35
+CAN,Canada,Europe & North America,43,11,2011,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1700,981,2011,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6900,1210,2011,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,44,18,2011,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,6000,34,2011,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,630,84,2011,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,81,326,2011,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,22,30,2011,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5500,703,2011,,7.54,-5.55
+HRV,Croatia,Europe & North America,4,9,2011,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,48,38,2011,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,8,2011,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,3,5,2011,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,58,272,2011,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,95,2011,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,250,76,2011,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,990,42,2011,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,64,53,2011,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,110,308,2011,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,630,558,2011,69,15.18,39.78
+EST,Estonia,Europe & North America,2,13,2011,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,140,441,2011,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,18000,558,2011,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,38,2011,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,4,2011,11.6,61.92,25.75
+FRA,France,Europe & North America,73,9,2011,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,304,2011,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,500,656,2011,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,18,32,2011,19.5,42.32,43.36
+DEU,Germany,Europe & North America,38,6,2011,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,339,2011,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2011,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,28,2011,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,500,122,2011,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3100,748,2011,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,460,762,2011,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,29,180,2011,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1400,496,2011,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,150,72,2011,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,12,13,2011,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2011,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,50000,197,2011,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,11000,221,2011,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,260,19,2011,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,700,67,2011,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,5,7,2011,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2011,16.9,31.05,34.85
+ITA,Italy,Europe & North America,11,2,2011,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,39,79,2011,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,66,6,2011,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,52,2011,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,70,19,2011,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5900,398,2011,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,110,2011,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,6,10,2011,,29.31,47.48
+LVA,Latvia,Europe & North America,6,26,2011,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,23,25,2011,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,340,585,2011,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,694,2011,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,76,56,2011,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,10,2011,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,8,2011,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3300,432,2011,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2500,428,2011,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,30,2011,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,62,2011,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4700,663,2011,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,7,2011,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,822,2011,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,8,54,2011,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,980,43,2011,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,42,59,2011,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,7,2011,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,600,86,2011,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3800,389,2011,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2600,259,2011,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,170,256,2011,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1700,285,2011,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,13,7,2011,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,10,2011,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,150,110,2011,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5400,639,2011,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,65000,972,2011,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,4,2011,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,13,18,2011,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,9900,180,2011,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,59,76,2011,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,370,166,2011,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,140,103,2011,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,600,102,2011,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3300,141,2011,21.6,12.88,121.77
+POL,Poland,Europe & North America,11,3,2011,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,8,9,2011,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2011,,25.35,51.18
+ROU,Romania,Europe & North America,50,24,2011,23.8,45.94,24.97
+RUS,Russia,Europe & North America,420,23,2011,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1200,349,2011,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,54,2011,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,137,2011,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,110,18,2011,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2100,423,2011,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,11,12,2011,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2011,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3200,1270,2011,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,5,10,2011,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2011,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,8,2011,12,46.15,15.00
+SLB,Solomon Islands,Oceania,25,134,2011,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,955,2011,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1900,161,2011,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,3900,1070,2011,82.3,4.86,31.57
+ESP,Spain,Europe & North America,19,4,2011,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,130,38,2011,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4800,390,2011,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,15,139,2011,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2011,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2011,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,28,2011,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,54,22,2011,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,320,41,2011,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,422,2011,55.1,8.62,0.82
+TON,Tonga,Oceania,2,56,2011,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,72,2011,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,92,46,2011,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,300,23,2011,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,13,10,2011,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6200,419,2011,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,120,23,2011,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,4,4,2011,,23.42,53.85
+GBR,United Kingdom,Europe & North America,74,9,2011,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,628,2011,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,610,15,2011,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,8,17,2011,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,32,2011,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,88,2011,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,680,116,2011,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,47,2011,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1500,187,2011,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1600,283,2011,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2600,557,2011,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,10000,858,2012,54.5,33.94,67.71
+ALB,Albania,Europe & North America,6,17,2012,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1100,116,2012,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3100,281,2012,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,44,2012,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,350,47,2012,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,13,30,2012,23.5,40.07,45.04
+AUS,Australia,Oceania,18,6,2012,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2012,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,51,29,2012,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2012,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,18,2012,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,7300,238,2012,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,34,2012,,13.19,-59.54
+BLR,Belarus,Europe & North America,4,4,2012,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,7,6,2012,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,50,2012,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,450,2012,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,30,231,2012,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,480,192,2012,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,95,170,2012,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1800,60,2012,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,7,11,2012,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,369,2012,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,608,2012,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,790,215,2012,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,580,2012,37.5,7.37,12.35
+CAN,Canada,Europe & North America,44,11,2012,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1600,963,2012,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,6900,1190,2012,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,41,17,2012,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,5700,33,2012,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,630,85,2012,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,78,313,2012,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2012,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5600,702,2012,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,8,2012,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,49,39,2012,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,7,2012,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,3,5,2012,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,55,262,2012,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,94,2012,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,230,71,2012,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1000,42,2012,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,62,52,2012,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,120,305,2012,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,610,549,2012,69,15.18,39.78
+EST,Estonia,Europe & North America,2,12,2012,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,140,435,2012,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,17000,527,2012,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,38,2012,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,4,2012,11.6,61.92,25.75
+FRA,France,Europe & North America,70,9,2012,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,292,2012,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,500,650,2012,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,30,2012,19.5,42.32,43.36
+DEU,Germany,Europe & North America,37,5,2012,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,336,2012,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2012,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,1,28,2012,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,480,118,2012,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3100,744,2012,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,460,744,2012,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,29,185,2012,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1400,500,2012,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,140,70,2012,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2012,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,4,2012,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,47000,185,2012,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,11000,214,2012,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,18,2012,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,700,66,2012,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,5,6,2012,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2012,16.9,31.05,34.85
+ITA,Italy,Europe & North America,11,2,2012,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,39,79,2012,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,58,5,2012,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,52,2012,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,64,17,2012,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5500,373,2012,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,107,2012,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,6,11,2012,,29.31,47.48
+LVA,Latvia,Europe & North America,5,23,2012,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,24,25,2012,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,340,586,2012,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,683,2012,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,75,55,2012,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,10,2012,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,7,2012,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3200,413,2012,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2400,413,2012,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,30,2012,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,5,60,2012,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4800,663,2012,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,7,2012,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,812,2012,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,63,2012,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,940,41,2012,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,40,54,2012,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,1,7,2012,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,570,81,2012,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3700,371,2012,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2500,254,2012,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,160,240,2012,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1600,266,2012,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,12,7,2012,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,10,2012,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,150,108,2012,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5400,616,2012,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,963,2012,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,3,2012,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,14,18,2012,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,9600,173,2012,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,58,74,2012,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,360,164,2012,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,140,98,2012,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,580,100,2012,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3300,139,2012,21.6,12.88,121.77
+POL,Poland,Europe & North America,10,3,2012,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,8,9,2012,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2012,,25.35,51.18
+ROU,Romania,Europe & North America,46,23,2012,23.8,45.94,24.97
+RUS,Russia,Europe & North America,400,22,2012,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1200,329,2012,38.2,-1.94,29.87
+WSM,Samoa,Oceania,3,52,2012,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,134,2012,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,110,18,2012,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2000,400,2012,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,11,12,2012,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2012,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3000,1210,2012,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,5,10,2012,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2012,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,7,2012,12,46.15,15.00
+SLB,Solomon Islands,Oceania,24,127,2012,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,943,2012,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1700,143,2012,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,3900,1050,2012,82.3,4.86,31.57
+ESP,Spain,Europe & North America,18,4,2012,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,130,37,2012,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4600,368,2012,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,15,134,2012,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2012,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2012,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,28,2012,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,52,21,2012,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,300,39,2012,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,410,2012,55.1,8.62,0.82
+TON,Tonga,Oceania,2,56,2012,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,71,2012,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,94,46,2012,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,280,22,2012,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,13,9,2012,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6200,412,2012,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,120,24,2012,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,4,4,2012,,23.42,53.85
+GBR,United Kingdom,Europe & North America,67,8,2012,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,615,2012,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,620,16,2012,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,8,17,2012,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,220,32,2012,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,85,2012,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,680,116,2012,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,46,2012,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1500,184,2012,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1600,267,2012,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2500,528,2012,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,9600,810,2013,54.5,33.94,67.71
+ALB,Albania,Europe & North America,6,16,2013,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1100,115,2013,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3100,269,2013,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,43,2013,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,330,44,2013,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,11,26,2013,23.5,40.07,45.04
+AUS,Australia,Oceania,19,6,2013,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2013,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,50,28,2013,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,78,2013,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,4,17,2013,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,6900,227,2013,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,32,2013,,13.19,-59.54
+BLR,Belarus,Europe & North America,4,3,2013,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,7,6,2013,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,48,2013,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,441,2013,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,29,223,2013,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,460,184,2013,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,92,164,2013,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1800,61,2013,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,7,10,2013,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,362,2013,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,591,2013,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,740,202,2013,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,567,2013,37.5,7.37,12.35
+CAN,Canada,Europe & North America,42,11,2013,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1700,1030,2013,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7000,1170,2013,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,39,16,2013,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,5600,32,2013,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,630,85,2013,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,77,302,2013,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2013,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5600,691,2013,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,9,2013,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,50,40,2013,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,6,2013,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,3,4,2013,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,54,256,2013,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,94,2013,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,220,67,2013,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1000,40,2013,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,60,50,2013,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,120,300,2013,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,600,540,2013,69,15.18,39.78
+EST,Estonia,Europe & North America,1,10,2013,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,130,432,2013,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,16000,498,2013,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,37,2013,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,4,2013,11.6,61.92,25.75
+FRA,France,Europe & North America,67,9,2013,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,277,2013,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,510,644,2013,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,30,2013,19.5,42.32,43.36
+DEU,Germany,Europe & North America,37,5,2013,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,331,2013,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2013,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,0,27,2013,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,460,113,2013,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3100,731,2013,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,450,726,2013,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,28,175,2013,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1400,496,2013,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,140,69,2013,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2013,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,4,2013,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,44000,175,2013,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,10000,207,2013,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,17,2013,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,800,75,2013,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2013,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2013,16.9,31.05,34.85
+ITA,Italy,Europe & North America,10,2,2013,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,38,79,2013,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,55,5,2013,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,51,2013,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,56,14,2013,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5400,364,2013,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,104,2013,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,7,11,2013,,29.31,47.48
+LVA,Latvia,Europe & North America,6,27,2013,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,27,27,2013,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,340,583,2013,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,674,2013,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,78,58,2013,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,10,2013,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,6,2013,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3100,394,2013,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2400,396,2013,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,30,2013,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,4,58,2013,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4900,663,2013,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,7,2013,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,805,2013,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,8,60,2013,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,880,39,2013,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,38,51,2013,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,0,6,2013,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,550,78,2013,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3600,356,2013,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2400,251,2013,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,160,231,2013,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1400,248,2013,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,11,6,2013,13.2,52.13,5.29
+NZL,New Zealand,Oceania,5,9,2013,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,140,105,2013,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5400,594,2013,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,951,2013,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,3,2013,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,15,18,2013,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,9400,166,2013,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,52,66,2013,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,360,160,2013,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,130,94,2013,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,560,98,2013,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3200,136,2013,21.6,12.88,121.77
+POL,Poland,Europe & North America,10,3,2013,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,7,8,2013,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2013,,25.35,51.18
+ROU,Romania,Europe & North America,42,21,2013,23.8,45.94,24.97
+RUS,Russia,Europe & North America,380,20,2013,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1100,308,2013,38.2,-1.94,29.87
+WSM,Samoa,Oceania,2,48,2013,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,132,2013,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,110,17,2013,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,2000,381,2013,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,10,12,2013,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2013,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,2900,1180,2013,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,4,9,2013,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2013,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,2,7,2013,12,46.15,15.00
+SLB,Solomon Islands,Oceania,24,122,2013,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5000,893,2013,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1600,133,2013,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4100,1090,2013,82.3,4.86,31.57
+ESP,Spain,Europe & North America,17,4,2013,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,130,37,2013,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4400,349,2013,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,14,129,2013,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2013,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,6,2013,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,150,29,2013,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,51,20,2013,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,300,39,2013,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,404,2013,55.1,8.62,0.82
+TON,Tonga,Oceania,1,56,2013,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,14,70,2013,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,96,46,2013,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,270,20,2013,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,13,9,2013,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6100,401,2013,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,110,23,2013,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,3,2013,,23.42,53.85
+GBR,United Kingdom,Europe & North America,64,8,2013,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,593,2013,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,630,16,2013,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,9,18,2013,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,220,31,2013,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,82,2013,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,670,115,2013,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,730,46,2013,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1500,175,2013,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1500,254,2013,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2400,509,2013,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,9300,786,2014,54.5,33.94,67.71
+ALB,Albania,Europe & North America,6,16,2014,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1100,114,2014,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3000,258,2014,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,42,2014,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,320,42,2014,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,12,27,2014,23.5,40.07,45.04
+AUS,Australia,Oceania,20,6,2014,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2014,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,49,28,2014,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,77,2014,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,15,2014,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,6500,214,2014,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,31,2014,,13.19,-59.54
+BLR,Belarus,Europe & North America,3,3,2014,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,7,6,2014,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,4,46,2014,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,432,2014,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,28,214,2014,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,440,175,2014,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,91,160,2014,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1800,62,2014,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,7,11,2014,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,353,2014,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,576,2014,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,700,189,2014,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,564,2014,37.5,7.37,12.35
+CAN,Canada,Europe & North America,41,11,2014,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1600,961,2014,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7100,1170,2014,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,35,15,2014,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,5400,31,2014,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,630,85,2014,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,75,293,2014,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,21,29,2014,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5600,676,2014,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,8,2014,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,48,39,2014,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,8,2014,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,3,4,2014,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,54,256,2014,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,94,2014,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,220,65,2014,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,990,39,2014,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,59,49,2014,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,120,295,2014,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,580,530,2014,69,15.18,39.78
+EST,Estonia,Europe & North America,2,11,2014,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,130,434,2014,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,16000,472,2014,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,36,2014,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,3,2014,11.6,61.92,25.75
+FRA,France,Europe & North America,65,8,2014,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,267,2014,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,637,2014,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,17,29,2014,19.5,42.32,43.36
+DEU,Germany,Europe & North America,36,5,2014,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2800,325,2014,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2014,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,0,26,2014,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,440,107,2014,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3300,767,2014,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,450,711,2014,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,28,174,2014,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,492,2014,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,140,68,2014,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2014,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,5,2014,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,41000,166,2014,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,9900,199,2014,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,17,2014,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,1000,92,2014,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2014,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,4,2014,16.9,31.05,34.85
+ITA,Italy,Europe & North America,9,2,2014,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,38,78,2014,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,52,5,2014,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,49,2014,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,49,13,2014,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5300,358,2014,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,100,2014,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,7,11,2014,,29.31,47.48
+LVA,Latvia,Europe & North America,5,24,2014,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,30,28,2014,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,330,579,2014,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,688,2014,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,85,63,2014,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,9,2014,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,6,2014,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,3000,378,2014,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2300,381,2014,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,30,2014,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,4,56,2014,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4800,642,2014,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,6,2014,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,796,2014,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,70,2014,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,870,38,2014,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,37,49,2014,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,0,6,2014,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,540,76,2014,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3500,339,2014,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2400,247,2014,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,150,223,2014,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1300,231,2014,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,11,6,2014,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,10,2014,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,140,103,2014,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5300,573,2014,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,943,2014,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,3,2014,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,15,18,2014,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,9200,161,2014,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,47,60,2014,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,350,155,2014,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,130,91,2014,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,550,96,2014,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,3000,131,2014,21.6,12.88,121.77
+POL,Poland,Europe & North America,9,2,2014,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,7,8,2014,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,10,2014,,25.35,51.18
+ROU,Romania,Europe & North America,42,21,2014,23.8,45.94,24.97
+RUS,Russia,Europe & North America,360,19,2014,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1100,291,2014,38.2,-1.94,29.87
+WSM,Samoa,Oceania,2,47,2014,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,131,2014,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,110,17,2014,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,1900,364,2014,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,11,12,2014,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,55,2014,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3000,1190,2014,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,4,8,2014,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,5,2014,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,1,7,2014,12,46.15,15.00
+SLB,Solomon Islands,Oceania,24,120,2014,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5000,878,2014,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1500,128,2014,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4300,1140,2014,82.3,4.86,31.57
+ESP,Spain,Europe & North America,16,4,2014,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,130,36,2014,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4300,333,2014,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,13,124,2014,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,5,2014,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,5,2014,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,30,2014,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,50,19,2014,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,290,38,2014,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,401,2014,55.1,8.62,0.82
+TON,Tonga,Oceania,1,55,2014,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,13,69,2014,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,96,46,2014,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,250,19,2014,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,12,8,2014,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6100,394,2014,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,110,24,2014,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,3,2014,,23.42,53.85
+GBR,United Kingdom,Europe & North America,63,8,2014,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,574,2014,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,640,16,2014,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,8,17,2014,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,30,2014,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,7,80,2014,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,650,113,2014,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,45,2014,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1500,174,2014,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1400,242,2014,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2300,494,2014,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,8400,701,2015,54.5,33.94,67.71
+ALB,Albania,Europe & North America,5,15,2015,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1200,114,2015,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3000,251,2015,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,43,2015,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,310,41,2015,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,12,28,2015,23.5,40.07,45.04
+AUS,Australia,Oceania,20,6,2015,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2015,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,48,27,2015,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,74,2015,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,15,2015,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,6000,200,2015,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,31,2015,,13.19,-59.54
+BLR,Belarus,Europe & North America,3,3,2015,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,7,5,2015,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,3,43,2015,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1700,421,2015,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,26,203,2015,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,420,168,2015,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,88,156,2015,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1900,63,2015,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,7,10,2015,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2500,343,2015,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,568,2015,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,650,178,2015,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4800,554,2015,37.5,7.37,12.35
+CAN,Canada,Europe & North America,41,11,2015,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1500,912,2015,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7100,1160,2015,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,34,14,2015,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,5200,30,2015,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,630,85,2015,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,74,285,2015,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,20,28,2015,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5600,658,2015,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,8,2015,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,47,38,2015,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,7,2015,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,2,4,2015,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,52,247,2015,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,94,2015,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,210,63,2015,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,1000,39,2015,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,57,48,2015,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,120,296,2015,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,560,518,2015,69,15.18,39.78
+EST,Estonia,Europe & North America,1,10,2015,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,130,435,2015,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,15000,446,2015,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,35,2015,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,3,2015,11.6,61.92,25.75
+FRA,France,Europe & North America,62,8,2015,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,261,2015,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,625,2015,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,16,27,2015,19.5,42.32,43.36
+DEU,Germany,Europe & North America,38,5,2015,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,320,2015,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2015,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,0,25,2015,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,430,103,2015,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,3000,699,2015,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,440,694,2015,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,27,172,2015,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,488,2015,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,140,67,2015,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2015,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,4,2015,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,38000,158,2015,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,9500,192,2015,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,17,2015,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,910,83,2015,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2015,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,3,2015,16.9,31.05,34.85
+ITA,Italy,Europe & North America,9,2,2015,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,38,78,2015,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,50,5,2015,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,110,48,2015,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,45,12,2015,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5200,353,2015,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,97,2015,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,7,11,2015,,29.31,47.48
+LVA,Latvia,Europe & North America,5,23,2015,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,33,29,2015,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,330,574,2015,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1100,691,2015,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,93,70,2015,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,9,2015,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,5,2015,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,2900,363,2015,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2200,370,2015,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,30,2015,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,4,54,2015,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4700,620,2015,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,7,2015,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,785,2015,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,10,73,2015,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,810,36,2015,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,36,47,2015,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,0,6,2015,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,520,74,2015,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3300,318,2015,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2300,246,2015,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,150,217,2015,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1400,236,2015,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,10,6,2015,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,10,2015,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,140,101,2015,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5300,555,2015,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,66000,931,2015,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,3,2015,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,16,19,2015,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,9000,154,2015,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,46,58,2015,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,340,151,2015,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,130,88,2015,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,540,94,2015,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,2900,127,2015,21.6,12.88,121.77
+POL,Poland,Europe & North America,9,2,2015,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,7,9,2015,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,9,2015,,25.35,51.18
+ROU,Romania,Europe & North America,41,21,2015,23.8,45.94,24.97
+RUS,Russia,Europe & North America,350,18,2015,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,1000,275,2015,38.2,-1.94,29.87
+WSM,Samoa,Oceania,2,45,2015,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,130,2015,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,110,17,2015,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,1800,346,2015,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,11,13,2015,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,54,2015,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,3000,1180,2015,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,4,9,2015,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2015,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,1,7,2015,12,46.15,15.00
+SLB,Solomon Islands,Oceania,23,112,2015,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5000,855,2015,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1500,125,2015,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4200,1110,2015,82.3,4.86,31.57
+ESP,Spain,Europe & North America,15,4,2015,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,120,36,2015,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4100,320,2015,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,13,122,2015,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,4,2015,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,5,2015,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,30,2015,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,49,18,2015,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,280,38,2015,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,398,2015,55.1,8.62,0.82
+TON,Tonga,Oceania,1,54,2015,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,13,68,2015,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,96,46,2015,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,250,19,2015,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,12,8,2015,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6100,387,2015,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,97,21,2015,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,3,2015,,23.42,53.85
+GBR,United Kingdom,Europe & North America,60,8,2015,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,556,2015,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,680,18,2015,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,9,18,2015,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,210,30,2015,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,6,76,2015,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,640,115,2015,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,720,45,2015,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1400,169,2015,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1400,232,2015,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2200,480,2015,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,8100,673,2016,54.5,33.94,67.71
+ALB,Albania,Europe & North America,5,16,2016,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1200,113,2016,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3000,246,2016,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,43,2016,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,300,40,2016,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,11,26,2016,23.5,40.07,45.04
+AUS,Australia,Oceania,21,6,2016,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2016,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,46,26,2016,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,72,2016,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,15,2016,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,5500,186,2016,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,30,2016,,13.19,-59.54
+BLR,Belarus,Europe & North America,3,3,2016,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,7,5,2016,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,3,39,2016,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,408,2016,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,25,193,2016,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,400,161,2016,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,85,151,2016,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1800,62,2016,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,7,10,2016,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2400,331,2016,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,558,2016,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,620,168,2016,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4700,538,2016,37.5,7.37,12.35
+CAN,Canada,Europe & North America,40,10,2016,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1500,890,2016,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7200,1140,2016,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,31,13,2016,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,5000,29,2016,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,620,84,2016,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,73,279,2016,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,20,28,2016,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5500,636,2016,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,7,2016,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,44,37,2016,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,6,2016,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,2,4,2016,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,51,246,2016,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,94,2016,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,200,61,2016,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,980,38,2016,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,56,47,2016,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,130,301,2016,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,530,498,2016,69,15.18,39.78
+EST,Estonia,Europe & North America,1,11,2016,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,130,436,2016,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,15000,422,2016,23.5,9.15,40.49
+FJI,Fiji,Oceania,7,34,2016,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,3,2016,11.6,61.92,25.75
+FRA,France,Europe & North America,60,8,2016,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,256,2016,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,611,2016,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,15,26,2016,19.5,42.32,43.36
+DEU,Germany,Europe & North America,37,5,2016,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,314,2016,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,3,3,2016,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,0,25,2016,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,410,98,2016,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,2700,621,2016,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,440,679,2016,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,27,170,2016,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,489,2016,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,130,65,2016,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2016,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,4,2016,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,37000,150,2016,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,9000,184,2016,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,16,2016,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,860,78,2016,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,4,6,2016,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,6,3,2016,16.9,31.05,34.85
+ITA,Italy,Europe & North America,8,2,2016,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,38,80,2016,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,46,5,2016,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,100,47,2016,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,41,10,2016,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5100,346,2016,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,94,2016,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,7,12,2016,,29.31,47.48
+LVA,Latvia,Europe & North America,5,26,2016,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,33,29,2016,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,320,559,2016,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,661,2016,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,96,73,2016,,26.34,17.23
+LTU,Lithuania,Europe & North America,3,8,2016,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,5,2016,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,2900,348,2016,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2200,358,2016,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,29,2016,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,4,54,2016,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4500,590,2016,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,6,2016,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,777,2016,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,9,67,2016,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,770,34,2016,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,35,46,2016,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,0,6,2016,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,500,72,2016,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3200,301,2016,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2300,245,2016,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,140,207,2016,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1100,200,2016,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,10,6,2016,13.2,52.13,5.29
+NZL,New Zealand,Oceania,6,10,2016,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,140,100,2016,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5200,530,2016,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,67000,925,2016,40.1,9.08,8.68
+NOR,Norway,Europe & North America,2,3,2016,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,17,19,2016,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,8400,143,2016,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,43,55,2016,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,340,148,2016,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,120,86,2016,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,520,91,2016,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,2800,124,2016,21.6,12.88,121.77
+POL,Poland,Europe & North America,9,2,2016,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,7,9,2016,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,9,2016,,25.35,51.18
+ROU,Romania,Europe & North America,40,21,2016,23.8,45.94,24.97
+RUS,Russia,Europe & North America,330,18,2016,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,990,260,2016,38.2,-1.94,29.87
+WSM,Samoa,Oceania,2,44,2016,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,130,2016,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,100,17,2016,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,1800,330,2016,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,10,12,2016,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,54,2016,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,2800,1120,2016,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,4,8,2016,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,6,2016,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,1,7,2016,12,46.15,15.00
+SLB,Solomon Islands,Oceania,22,108,2016,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5200,865,2016,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1500,122,2016,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4300,1130,2016,82.3,4.86,31.57
+ESP,Spain,Europe & North America,15,4,2016,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,120,36,2016,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,4100,308,2016,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,13,121,2016,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,4,2016,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,5,5,2016,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,140,30,2016,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,47,17,2016,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,270,37,2016,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,395,2016,55.1,8.62,0.82
+TON,Tonga,Oceania,1,53,2016,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,13,68,2016,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,93,45,2016,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,230,18,2016,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,11,8,2016,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6000,381,2016,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,89,20,2016,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,3,2016,,23.42,53.85
+GBR,United Kingdom,Europe & North America,57,7,2016,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,539,2016,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,730,19,2016,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,9,18,2016,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,200,29,2016,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,6,74,2016,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,660,121,2016,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,710,44,2016,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1400,165,2016,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1400,222,2016,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2100,468,2016,38.3,-19.02,29.15
+AFG,Afghanistan,Central & Southern Asia,7700,638,2017,54.5,33.94,67.71
+ALB,Albania,Europe & North America,5,15,2017,14.3,41.15,20.17
+DZA,Algeria,Western Asia & North Africa,1200,112,2017,5.5,28.03,1.66
+AGO,Angola,Sub-Sahran Africa,3000,241,2017,32.3,-11.20,17.87
+ATG,Antigua and Barbuda,Latin America and the Caribbean,1,42,2017,,17.06,-61.80
+ARG,Argentina,Latin America and the Caribbean,290,39,2017,35.5,-38.42,-63.62
+ARM,Armenia,Western Asia & North Africa,11,26,2017,23.5,40.07,45.04
+AUS,Australia,Oceania,20,6,2017,12.4,-25.27,133.78
+AUT,Austria,Europe & North America,4,5,2017,13.3,47.52,14.55
+AZE,Azerbaijan,Western Asia & North Africa,44,26,2017,6,40.14,47.58
+BHS,Bahamas,Latin America and the Caribbean,4,70,2017,,25.03,-77.40
+BHR,Bahrain,Western Asia & North Africa,3,14,2017,,25.93,50.64
+BGD,Bangladesh,Central & Southern Asia,5100,173,2017,24.3,23.68,90.36
+BRB,Barbados,Latin America and the Caribbean,1,27,2017,,13.19,-59.54
+BLR,Belarus,Europe & North America,3,2,2017,5.6,53.71,27.95
+BEL,Belgium,Europe & North America,6,5,2017,16.4,50.50,4.47
+BLZ,Belize,Latin America and the Caribbean,3,36,2017,41.3,17.19,-88.50
+BEN,Benin,Sub-Sahran Africa,1600,397,2017,38.5,9.31,2.32
+BTN,Bhutan,Central & Southern Asia,24,183,2017,8.2,27.51,90.43
+BOL,Bolivia,Latin America and the Caribbean,380,155,2017,34.6,-16.29,-63.59
+BWA,Botswana,Sub-Sahran Africa,81,144,2017,19.3,-22.33,24.68
+BRA,Brazil,Latin America and the Caribbean,1700,60,2017,19.9,-14.24,-51.93
+BGR,Bulgaria,Europe & North America,6,10,2017,22.6,42.73,25.49
+BFA,Burkina Faso,Sub-Sahran Africa,2400,320,2017,41.4,12.24,-1.56
+BDI,Burundi,Sub-Sahran Africa,2400,548,2017,64.9,-3.37,29.92
+KHM,Cambodia,Eastern & Southest Asia,590,160,2017,17.7,12.57,104.99
+CMR,Cameroon,Sub-Sahran Africa,4700,529,2017,37.5,7.37,12.35
+CAN,Canada,Europe & North America,40,10,2017,12.1,56.13,-106.35
+CAF,Central African Republic,Sub-Sahran Africa,1400,829,2017,62,6.61,20.94
+TCD,Chad,Sub-Sahran Africa,7300,1140,2017,42.3,15.45,18.73
+CHL,Chile,Latin America and the Caribbean,29,13,2017,8.6,-35.68,-71.54
+CHN,China,Eastern & Southest Asia,4900,29,2017,0.6,35.86,104.20
+COL,Colombia,Latin America and the Caribbean,610,83,2017,27,4.57,-74.30
+COM,Comoros,Sub-Sahran Africa,72,273,2017,42.4,-11.88,43.87
+CRI,Costa Rica,Latin America and the Caribbean,19,27,2017,21,9.75,-83.75
+CIV,Cote d'Ivoire,Sub-Sahran Africa,5400,617,2017,,7.54,-5.55
+HRV,Croatia,Europe & North America,3,8,2017,18.3,45.10,15.20
+CUB,Cuba,Latin America and the Caribbean,42,36,2017,,21.52,-77.78
+CYP,Cyprus,Europe & North America,1,6,2017,14.7,35.13,33.43
+DNK,Denmark,Europe & North America,2,4,2017,12.5,56.26,9.50
+DJI,Djibouti,Sub-Sahran Africa,51,248,2017,21.1,11.83,42.59
+DOM,Dominican Republic,Latin America and the Caribbean,200,95,2017,21,18.74,-70.16
+ECU,Ecuador,Latin America and the Caribbean,200,59,2017,25,-1.83,-78.18
+EGY,Egypt,Western Asia & North Africa,960,37,2017,32.5,26.82,30.80
+SLV,El Salvador,Latin America and the Caribbean,54,46,2017,22.8,13.79,-88.90
+GNQ,Equatorial Guinea,Sub-Sahran Africa,130,301,2017,76.8,1.65,10.27
+ERI,Eritrea,Sub-Sahran Africa,510,480,2017,69,15.18,39.78
+EST,Estonia,Europe & North America,1,9,2017,21.7,58.60,25.01
+SWZ,Eswatini,Sub-Sahran Africa,130,437,2017,58.9,-26.52,31.47
+ETH,Ethiopia,Sub-Sahran Africa,14000,401,2017,23.5,9.15,40.49
+FJI,Fiji,Oceania,6,34,2017,34,-16.58,179.41
+FIN,Finland,Europe & North America,2,3,2017,11.6,61.92,25.75
+FRA,France,Europe & North America,56,8,2017,13.4,46.23,2.21
+GAB,Gabon,Sub-Sahran Africa,170,252,2017,33.4,-0.80,11.61
+GMB,Gambia,Sub-Sahran Africa,520,597,2017,48.6,13.44,-15.31
+GEO,Georgia,Western Asia & North Africa,14,25,2017,19.5,42.32,43.36
+DEU,Germany,Europe & North America,53,7,2017,16,51.17,10.45
+GHA,Ghana,Sub-Sahran Africa,2700,308,2017,23.4,7.95,-1.02
+GRC,Greece,Europe & North America,2,3,2017,17.9,39.07,21.82
+GRD,Grenada,Latin America and the Caribbean,0,25,2017,32,12.26,-61.60
+GTM,Guatemala,Latin America and the Caribbean,400,95,2017,59.3,15.78,-90.23
+GIN,Guinea,Sub-Sahran Africa,2600,576,2017,43.7,9.95,-9.70
+GNB,Guinea-Bissau,Sub-Sahran Africa,440,667,2017,69.3,11.80,-15.18
+GUY,Guyana,Latin America and the Caribbean,26,169,2017,35,4.86,-58.93
+HTI,Haiti,Latin America and the Caribbean,1300,480,2017,58.5,18.97,-72.29
+HND,Honduras,Latin America and the Caribbean,130,65,2017,48.3,15.20,-86.24
+HUN,Hungary,Europe & North America,11,12,2017,12.3,47.16,19.50
+ISL,Iceland,Europe & North America,0,4,2017,10.1,64.96,-19.02
+IND,India,Central & Southern Asia,35000,145,2017,21.9,20.59,78.96
+IDN,Indonesia,Eastern & Southest Asia,8600,177,2017,9.8,-0.79,113.92
+IRN,Iran,Western Asia & North Africa,250,16,2017,10.9,32.43,53.69
+IRQ,Iraq,Western Asia & North Africa,870,79,2017,18.9,33.22,43.68
+IRL,Ireland,Europe & North America,3,5,2017,14.9,53.41,-8.24
+ISR,Israel,Western Asia & North Africa,5,3,2017,16.9,31.05,34.85
+ITA,Italy,Europe & North America,7,2,2017,20.3,41.87,12.57
+JAM,Jamaica,Latin America and the Caribbean,38,80,2017,19.9,18.11,-77.30
+JPN,Japan,Eastern & Southest Asia,44,5,2017,15.7,36.20,138.25
+JOR,Jordan,Western Asia & North Africa,100,46,2017,15.7,30.59,36.24
+KAZ,Kazakhstan,Central & Southern Asia,37,10,2017,2.5,48.02,66.92
+KEN,Kenya,Sub-Sahran Africa,5000,342,2017,36.1,-0.02,37.91
+KIR,Kiribati,Oceania,3,92,2017,21.8,-3.37,-168.73
+KWT,Kuwait,Western Asia & North Africa,7,12,2017,,29.31,47.48
+LVA,Latvia,Europe & North America,4,19,2017,22.9,56.88,24.60
+LBN,Lebanon,Western Asia & North Africa,34,29,2017,27.4,33.85,35.86
+LSO,Lesotho,Sub-Sahran Africa,310,544,2017,49.7,-29.61,28.23
+LBR,Liberia,Sub-Sahran Africa,1000,661,2017,50.9,6.43,-9.43
+LBY,Libya,Western Asia & North Africa,92,72,2017,,26.34,17.23
+LTU,Lithuania,Europe & North America,2,8,2017,20.6,55.17,23.88
+LUX,Luxembourg,Europe & North America,0,5,2017,18.3,49.82,6.13
+MDG,Madagascar,Sub-Sahran Africa,2800,335,2017,70.7,-18.77,46.87
+MWI,Malawi,Sub-Sahran Africa,2100,349,2017,51.5,-13.25,34.30
+MYS,Malaysia,Eastern & Southest Asia,150,29,2017,5.6,4.21,101.98
+MDV,Maldives,Central & Southern Asia,4,53,2017,8.2,3.20,73.22
+MLI,Mali,Sub-Sahran Africa,4400,562,2017,42.1,17.57,-4.00
+MLT,Malta,Europe & North America,0,6,2017,17.1,35.94,14.38
+MRT,Mauritania,Sub-Sahran Africa,1100,766,2017,31,21.01,-10.94
+MUS,Mauritius,Sub-Sahran Africa,8,61,2017,10.3,-20.35,57.55
+MEX,Mexico,Latin America and the Caribbean,740,33,2017,41.9,23.63,-102.55
+MNG,Mongolia,Eastern & Southest Asia,35,45,2017,28.4,46.86,103.85
+MNE,Montenegro,Europe & North America,0,6,2017,23.6,42.71,19.37
+MAR,Morocco,Western Asia & North Africa,480,70,2017,4.8,31.79,-7.09
+MOZ,Mozambique,Sub-Sahran Africa,3100,289,2017,46.1,-18.67,35.53
+MMR,Myanmar,Eastern & Southest Asia,2400,250,2017,24.8,21.91,95.96
+NAM,Namibia,Sub-Sahran Africa,140,195,2017,17.4,-22.96,18.49
+NPL,Nepal,Central & Southern Asia,1100,186,2017,25.2,28.39,84.12
+NLD,Netherlands,Europe & North America,9,5,2017,13.2,52.13,5.29
+NZL,New Zealand,Oceania,5,9,2017,,-40.90,174.89
+NIC,Nicaragua,Latin America and the Caribbean,130,98,2017,24.9,12.87,-85.21
+NER,Niger,Sub-Sahran Africa,5100,509,2017,,17.61,8.08
+NGA,Nigeria,Sub-Sahran Africa,67000,917,2017,40.1,9.08,8.68
+NOR,Norway,Europe & North America,1,2,2017,12.9,60.47,8.47
+OMN,Oman,Western Asia & North Africa,17,19,2017,,21.51,55.92
+PAK,Pakistan,Central & Southern Asia,8300,140,2017,24.3,30.38,69.35
+PAN,Panama,Latin America and the Caribbean,41,52,2017,22.1,8.54,-80.78
+PNG,Papua New Guinea,Oceania,340,145,2017,39.9,-6.31,143.96
+PRY,Paraguay,Latin America and the Caribbean,120,84,2017,24.2,-23.44,-58.44
+PER,Peru,Latin America and the Caribbean,500,88,2017,20.2,-9.19,-75.02
+PHL,Philippines,Eastern & Southest Asia,2700,121,2017,21.6,12.88,121.77
+POL,Poland,Europe & North America,8,2,2017,15.4,51.92,19.15
+PRT,Portugal,Europe & North America,6,8,2017,17.2,39.40,-8.22
+QAT,Qatar,Western Asia & North Africa,2,9,2017,,25.35,51.18
+ROU,Romania,Europe & North America,36,19,2017,23.8,45.94,24.97
+RUS,Russia,Europe & North America,320,17,2017,12.9,61.52,105.32
+RWA,Rwanda,Sub-Sahran Africa,960,248,2017,38.2,-1.94,29.87
+WSM,Samoa,Oceania,2,43,2017,20.3,-13.76,-172.10
+STP,Sao Tome and Principe,Sub-Sahran Africa,9,130,2017,66.7,6.61,20.94
+SAU,Saudi Arabia,Western Asia & North Africa,100,17,2017,12.7,23.89,45.08
+SEN,Senegal,Sub-Sahran Africa,1700,315,2017,46.7,14.50,-14.45
+SRB,Serbia,Europe & North America,10,12,2017,24.3,44.02,21.01
+SYC,Seychelles,Sub-Sahran Africa,1,53,2017,39.3,-4.68,55.49
+SLE,Sierra Leone,Sub-Sahran Africa,2900,1120,2017,56.8,8.46,-11.78
+SGP,Singapore,Eastern & Southest Asia,4,8,2017,,1.35,103.82
+SVK,Slovakia,Europe & North America,3,5,2017,12.2,48.67,19.70
+SVN,Slovenia,Europe & North America,1,7,2017,12,46.15,15.00
+SLB,Solomon Islands,Oceania,22,104,2017,12.7,-9.65,160.16
+SOM,Somalia,Sub-Sahran Africa,5100,829,2017,,5.15,46.20
+ZAF,South Africa,Sub-Sahran Africa,1400,119,2017,55.5,-30.56,22.94
+SSD,South Sudan,Western Asia & North Africa,4500,1150,2017,82.3,4.86,31.57
+ESP,Spain,Europe & North America,14,4,2017,20.7,40.46,-3.75
+LKA,Sri Lanka,Central & Southern Asia,120,36,2017,4.1,7.87,80.77
+SDN,Sudan,Western Asia & North Africa,3900,295,2017,46.5,12.86,30.22
+SUR,Suriname,Latin America and the Caribbean,13,120,2017,,3.92,-56.03
+SWE,Sweden,Europe & North America,5,4,2017,17.1,60.13,18.64
+CHE,Switzerland,Europe & North America,4,5,2017,14.6,46.82,8.23
+SYR,Syria,Western Asia & North Africa,130,31,2017,35.2,34.80,39.00
+TJK,Tajikistan,Central & Southern Asia,46,17,2017,26.3,38.86,71.28
+THA,Thailand,Eastern & Southest Asia,270,37,2017,9.9,15.87,100.99
+TGO,Togo,Sub-Sahran Africa,1000,396,2017,55.1,8.62,0.82
+TON,Tonga,Oceania,1,52,2017,22.5,-21.18,-175.20
+TTO,Trinidad and Tobago,Latin America and the Caribbean,12,67,2017,,10.69,-61.22
+TUN,Tunisia,Western Asia & North Africa,90,43,2017,15.2,33.89,9.54
+TUR,Turkey,Europe & North America,220,17,2017,14.4,38.96,35.24
+TKM,Turkmenistan,Central & Southern Asia,10,7,2017,0.2,38.97,59.56
+UGA,Uganda,Sub-Sahran Africa,6000,375,2017,21.4,1.37,32.29
+UKR,Ukraine,Europe & North America,83,19,2017,1.3,48.38,31.17
+ARE,United Arab Emirates,Western Asia & North Africa,3,3,2017,,23.42,53.85
+GBR,United Kingdom,Europe & North America,52,7,2017,18.6,55.38,-3.44
+TZA,United Republic of Tanzania,Sub-Sahran Africa,11000,524,2017,26.4,-6.37,34.89
+USA,United States of America,Europe & North America,720,19,2017,17.8,37.09,-95.71
+URY,Uruguay,Latin America and the Caribbean,8,17,2017,8.8,-32.52,-55.77
+UZB,Uzbekistan,Central & Southern Asia,200,29,2017,14.1,41.38,64.59
+VUT,Vanuatu,Oceania,6,72,2017,12.7,-15.38,166.96
+VEN,Venezuela,Latin America and the Caribbean,670,125,2017,33.1,6.42,-66.59
+VNM,Viet Nam,Eastern & Southest Asia,700,43,2017,6.7,14.06,108.28
+YEM,Yemen,Western Asia & North Africa,1400,164,2017,48.6,15.55,48.52
+ZMB,Zambia,Sub-Sahran Africa,1300,213,2017,54.4,-13.13,27.85
+ZWE,Zimbabwe,Sub-Sahran Africa,2100,458,2017,38.3,-19.02,29.15
