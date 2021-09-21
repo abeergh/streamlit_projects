@@ -7,6 +7,8 @@ import matplotlib.pylab as plt
 #st.set_page_config(layout="wide")
 #load data
 data = pd.read_csv("./00_Maternal_deaths_MMR.csv")
+mortality_causes = pd.read_csv("./04_Maternal_mortality_causes.csv")
+
 #create checkbox that allow the user to show/hide raw data table
 if st.checkbox('Show raw data'):
     st.subheader('Raw data')
@@ -32,11 +34,17 @@ st.write(fig1, use_container_width=True)
 fig2 = px.scatter(data[data['Year']==year], x="poverty rate", y="Maternal mortality ratio", animation_frame="Year", animation_group="Country",size="Maternal mortality ratio", color="region", hover_name="Country",log_x=True, size_max=55, range_x=[20,90], range_y=[100,3000])
 fig2.update_layout(margin=dict(b=0),autosize=False,title = "Maternal mortality ratio vs poverty rate",width=800,height=300)
 st.write(fig2, use_container_width=True)
-st.markdown(
-        "<div style='margin-bottom: 11px; font-size:10px; text-align: left; color: gray; width: 100%'>Data source: WHO & world bank- Maternal mortality and poverty rate data</div>", 
-unsafe_allow_html=True)
+
+fig3 = px.pie(values=mortality_causes['number'], names=mortality_causes['Cause'])
+fig3.update_layout(margin=dict(b=0),autosize=False,title = "Maternal mortality leading causes",width=800,height=300)
+st.write(fig3, use_container_width=True)
+
 #create line chart with total maternal deaths by year
 fig0 = px.line(data_by_year, x='Year', y='Deaths', text='Deaths')
 fig0.update_traces(textposition="top right")
 fig0.update_layout(margin=dict(b=0),autosize=False,title="Total maternal mortality deaths from 2000-2017",width=800,height=300)
 st.write(fig0, use_container_width=True)
+
+st.markdown(
+        "<div style='margin-bottom: 11px; font-size:10px; text-align: left; color: gray; width: 100%'>Data source: WHO & world bank- Maternal mortality and poverty rate data</div>", 
+unsafe_allow_html=True)
