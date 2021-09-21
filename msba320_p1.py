@@ -6,7 +6,7 @@ import altair as alt
 import matplotlib.pylab as plt
 #st.set_page_config(layout="wide")
 #load data
-data = pd.read_excel ("./00_Maternal_deaths_MMR.xlsx")
+data = pd.read_csv("./00_Maternal_deaths_MMR.csv")
 #create checkbox that allow the user to show/hide raw data table
 if st.checkbox('Show raw data'):
     st.subheader('Raw data')
